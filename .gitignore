@@ -1,0 +1,6 @@
+git rm -r --cached target/target/
+*.db
+.DS_Store
+*.class
+.idea/
+*.iml

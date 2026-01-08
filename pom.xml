@@ -15,13 +15,6 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
-		<!-- SonarQube Configuration -->
-		<sonar.sources>src/main/java</sonar.sources>
-		<sonar.tests>src/test/java</sonar.tests>
-		<sonar.java.source>17</sonar.java.source>
-		<sonar.java.target>17</sonar.java.target>
-		<sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
-		<sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 	</properties>
 	<dependencies>
 		<dependency>
